@@ -147,4 +147,4 @@ Comunidad: Eventos episódicos mensuales (ej: "La Fiesta de las Luminarias") don
 FRASE CLAVE DEL JUEGO:
 "No se trata de llegar, sino de sentir el camino."
 
-Serenalia no es un juego para "ganar". Es un espacio digital para respirar, recordar y recorrer el propio paisaje interior a través de la belleza de los valles colombianos y la estética anime. Un refugio interactivo donde cada jugador define qué significa "avanzar".
+di-ora-city no es un juego para "ganar". Es un espacio digital para respirar, recordar y recorrer el propio paisaje interior a través de la belleza de los valles colombianos y la estética anime. Un refugio interactivo donde cada jugador define qué significa "avanzar".
